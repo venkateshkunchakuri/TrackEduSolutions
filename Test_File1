@@ -6,7 +6,4 @@ a. Load Balancer Benefits
 as virtual servers.
 • Using a load balancer increases the availability & fault tolerance of our
 applications.
-b. Features of ELB
-• Elastic load balancing supports Application load balancer, Network load
-balancer, Gateway load balancer, and classic load balancer.
-• We can select the type of load balancer that best suits for our needs.
+
